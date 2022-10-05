@@ -1,3 +1,3 @@
-module github.com/luaxlou/timerutils
+module github.com/luaxlou/dateutils
 
 go 1.19
